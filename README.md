@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in machine learning and data engineering by building end-to-end projects involving model training, deployment, and data pipeline automation.<br>👯 I’m looking to collaborate on AI/ML research projects, open-source data tools, or full-stack applications that apply machine learning in creative or impactful ways.<br>🤝 I’m looking for help with MLOps best practices, setting up scalable model deployment, and building real-time data pipelines using tools like Apache Kafka or Airflow.<br>🌱 I’m currently learning advanced topics in deep learning, particularly in the areas of natural language processing and computer vision. I’m also diving deeper into MLOps workflows using Docker, FastAPI, and CI/CD practices. Alongside that, I’m strengthening my knowledge in data engineering with technologies like Hadoop, Kafka, and Airflow, while continuing to grow in web development using React and Next.js to deliver solutions.<br>💬 Ask me about my journey into AI/ML, how I’m applying data engineering concepts in hands-on projects, or how I’m learning to bridge machine learning models with real-world applications through clean and scalable engineering practices.<br>⚡ Fun fact: I started my tech journey with algorithms, but exploring real-world datasets and understanding how data drives intelligent systems inspired me to dive deep into AI and data engineering. I'm now passionate about building solutions that combine smart algorithms, solid data infrastructure, and user-focused design.<br>
+🔭 I’m currently building real-world projects in **machine learning** and **data engineering**, focusing on model training, deployment, and pipeline automation.<br>
+👯 I’m open to collaborating on AI/ML applications, data tools, or full-stack projects that solve meaningful problems.<br>
+🤝 I’m learning and applying **MLOps** and **real-time data processing** with tools like **Kafka**, **Airflow**, and **Docker**.<br>
+🌱 I’m deepening my skills in **NLP**, **computer vision**, and **end-to-end ML deployment** using **FastAPI**, **React**, and **CI/CD** practices.<br>
+💬 Ask me about how I’m integrating ML models with web apps and scaling them using solid data engineering principles.<br>
+⚡ Fun fact: I started with pure Python and DSA, but diving into projects sparked my love for combining ML, backend APIs, and smart data systems.<br>
+
 
 
 # 💻 Tech Stack:
